@@ -19,3 +19,6 @@ A 2D computer graphics project built using C++ and the GLUT library. This simple
 1. Install extension c/c++.
 2. Install run++ to make it run easily(optional).
 3. Compile and run the file.
+
+   <img width="1124" height="907" alt="Screenshot 2025-12-30 000319" src="https://github.com/user-attachments/assets/17bd1150-42f3-499b-a276-c1d89ca0b8b2" />
+
