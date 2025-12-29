@@ -23,6 +23,6 @@ A 2D computer graphics project built using C++ and the GLUT library. This simple
 ## Screenshots
 Simpler plane
    <img width="1125" height="912" alt="Screenshot 2025-12-30 000536" src="https://github.com/user-attachments/assets/48c81afe-dbb8-4bce-ad03-92c67a029651" />
-Realistic plane
+More realistic plane
    <img width="1124" height="907" alt="Screenshot 2025-12-30 000319" src="https://github.com/user-attachments/assets/17bd1150-42f3-499b-a276-c1d89ca0b8b2" />
 
