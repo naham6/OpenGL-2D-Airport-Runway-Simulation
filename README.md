@@ -3,7 +3,7 @@
 A 2D computer graphics project built using C++ and the GLUT library. This simple project simulates an airport environment with interactive elements and animations.
 
 ## ✨ Features
-* **Dual Versions:** Includes a basic plane design and a refined, realistic plane model.
+* **Dual Versions:** Includes a basic plane design (Airportsimple.cpp) and a refined, realistic plane model (Airportsimple2.cpp).
 * **Day/Night Toggle:** Press 'N' to switch between a sunny day and a dark night mode with bus headlights.
 * **Interactivity:**
   * Press `Space` to boost the airport bus.
