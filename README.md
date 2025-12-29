@@ -5,7 +5,8 @@ A 2D computer graphics project built using C++ and the GLUT library. This simple
 ## ✨ Features
 * **Dual Versions:** Includes a basic plane design and a refined, realistic plane model.
 * **Day/Night Toggle:** Press 'N' to switch between a sunny day and a dark night mode with bus headlights.
-* **Interactivity:** * Press `Space` to boost the airport bus.
+* **Interactivity:**
+  * Press `Space` to boost the airport bus.
   * Press `L` to trigger a plane landing animation.
   * Press `R` to reset the scene.
 * **Animations:** Moving clouds, flying birds (during daytime) and a rotating radar dish.
